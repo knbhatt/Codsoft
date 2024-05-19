@@ -1,4 +1,5 @@
 This repository contains the data science projects I completed during my internship at Codsoft. The projects include Titanic survival prediction, IMDB movie rating prediction with Python, and iris flower classification.
+
 Task 1: Titanic Survival Prediction
 This project focuses on predicting whether a passenger survived the Titanic disaster based on various features such as age, gender, ticket class, fare, cabin and whether or not they survived..
 
